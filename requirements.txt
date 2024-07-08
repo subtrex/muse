@@ -7,7 +7,6 @@ imageio-ffmpeg==0.5.1
 imutils==0.5.4
 moviepy==1.0.3
 opencv-python-headless
-pandas==2.2.2
 pillow==10.3.0
 requests==2.32.3
 streamlit==1.36.0
