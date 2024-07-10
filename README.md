@@ -1,5 +1,7 @@
 # MuSE: Music from Scene Extraction
 
+![slide-1](https://github.com/subtrex/muse/assets/53677987/c54e5799-a966-4289-a6ee-b4632a5fa159)
+
 MuSE is a custom music generation app for your short form videos based on scene analysis.
 
 ### Inspiration
